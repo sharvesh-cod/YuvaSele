@@ -28,7 +28,7 @@ System.out.println(arm);
 if (arm == givenum)
 	System.out.println("Armstrong num");
 else 
-	System.out.println("Not Armstrong number");
+	System.out.println("Not Armstrong numbers");
 	}
 
 }
